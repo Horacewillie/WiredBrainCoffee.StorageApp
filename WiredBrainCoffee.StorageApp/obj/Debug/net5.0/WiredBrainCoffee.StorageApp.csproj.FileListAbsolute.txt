@@ -1,0 +1,16 @@
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.exe
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.deps.json
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.runtimeconfig.json
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.runtimeconfig.dev.json
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\ref\WiredBrainCoffee.StorageApp.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\bin\Debug\net5.0\WiredBrainCoffee.StorageApp.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.csproj.AssemblyReference.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.AssemblyInfoInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.AssemblyInfo.cs
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.csproj.CoreCompileInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\ref\WiredBrainCoffee.StorageApp.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\WiredBrainCoffee.StorageApp\WiredBrainCoffee.StorageApp\obj\Debug\net5.0\WiredBrainCoffee.StorageApp.genruntimeconfig.cache
